@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Color Shade Creator",
+  "name": "Web app per trovare sfumature di colore",
   "icons": [
     {
       "src": "favicon.ico",
